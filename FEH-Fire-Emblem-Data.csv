@@ -1,0 +1,131 @@
+,,,,,MT,,,,,,,,,,,,,,,,,,,,SI
+Hero,Portrait,IconType,IconMovement,Weapon,Value,Description,Assist,Special,,A_Passive,,B_Passive,,C_Passive,C,Type,Move,HP,ATK,SPD,DEF,RES,Σ = Stat Sum,Tier,SI
+Tiki(A),,,,Lightning Breath+,11,Enables counterattack regardless of range (Slows Special trigger +1),,Bonfire,,Defiant Atk,,,,Spur Res,Red,Dragon,Infantry,40,35,23,35,24,157,A+,A+
+Tiki(Y),,,,Flametongue+,15,-,,Growing flame,,Armored Blow,,,,Breath of Life,Red,Dragon,Infantry,41,31,30,32,29,163,S,A+
+Alfonse,,,,Folkvangr,16,Grants Atk+5 at start of turn if unit's HP<50%,,Sol,,Death Blow,,,,Spur Atk,Red,Sword,Infantry,43,35,25,32,22,157,B,B
+Alm,,,,Falchion,16,"Effective vs Dragons (Atk+50%). Every third turn, Recover 10HP",,Draconic Aura,,Attack,,Windsweep,,,Red,Sword,Infantry,44,33,30,28,22,157,A+,A
+Chrom,,,,Falchion,16,"Effective vs Dragons (Atk+50%). Every third turn, Recover 10HP",,Aether,,Defiant Def,,,,Spur Def,Red,Sword,Infantry,47,37,25,31,17,157,A+,A
+Corrin(M),,,,Yato,16,Grants Spd+4 during combat if unit initiates attack,,Dragon Fang,,Defense,,Obstruct,,,Red,Sword,Infantry,42,32,32,28,24,158,A,A
+Eirika,,,,Sieglinde,16,Grants adjacent allies Atk+3 through next actions at start of each turn,Pivot,,,,,Drag Back,,Hone Spd,Red,Sword,Infantry,42,26,35,26,28,157,S,S
+Fir,,,,Killing Edge+,11,Accelerates Special trigger (cooldown count-1),,Glacies,,Speed,,Pass,,,Red,Sword,Infantry,41,25,36,24,31,157,B,B
+Hana,,,,Armorslayer+,12,Effective vs Armored (Atk+50%),Rally Attack,,,Life and Death,,Obstruct,,,Red,Sword,Infantry,37,35,36,23,26,157,A,A
+Hinata,,,,Ruby Sword+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",,Pavise,,Fury,,Brash Assault,,,Red,Sword,Infantry,47,32,24,36,18,157,C,B
+Ike,,,,Ragnell,16,Enables unit to counterattack regardless of distance to attacker,,Aether,,Heavy Blade,,Swordbreaker,,,Red,Sword,Infantry,42,35,31,32,18,158,S+,S+
+Karel,,,,Wo Dao+,13,Grants +10 damage when Special triggers,,Reprisal,,Defiant Atk,,Desperation,,,Red,Sword,Infantry,47,30,35,25,20,157,A+,A+
+Laslow,,,,Silver Sword+,15,-,,Noontime,,,,Axebreaker,,Hone Spd,Red,Sword,Infantry,44,35,26,30,22,157,B,B
+Lloyd,,,,Regal Blade,16,Atk/Spd+2 when combat begins versus an enemy at full health,,,,,,,,,Red,Sword,Infantry,?,?,?,?,?,0,U,U
+Lon'qu,,,,Killing Edge+,11,Accelerates Special trigger (cooldown count-1),,Glimmer,,Speed,,Vantage,,,Red,Sword,Infantry,45,29,39,22,22,157,A,A+
+Lucina,,,,Falchion,16,"Effective vs Dragons (Atk+50%). Every third turn, Recover 10HP",,Aether,,Defiant Spd,,,,Spur Atk,Red,Sword,Infantry,43,34,36,25,19,157,S+,S
+Lyn,,,,Sol Katti,16,If wielder initiates attack at HP <=50% any follow-up occurs immediately,,Galeforce,,Defiant Atk,,,,Spur Spd,Red,Sword,Infantry,37,28,37,26,29,157,A+,A+
+Marth,,,,Falchion,16,"Effective vs Dragons (Atk+50%). Every third turn, Recover 10HP",Pivot,,,,,Escape Route,,Spur Spd,Red,Sword,Infantry,41,31,34,29,23,158,S,S
+Navarre,,,,Killing Edge+,11,Accelerates Special trigger (cooldown count-1),,Blazing Wind,,,,Desperation,,Threaten Spd,Red,Sword,Infantry,42,31,37,23,24,157,A,A+
+Ogma,,,,Brave Sword+,8,Spd-5. Double-Attack when initiating attack,,Noontime,,Defiant Atk,,,,Spur Atk,Red,Sword,Infantry,47,35,34,28,13,157,A,A+
+Olivia,,,,Silver Sword+,15,-,Dance,,,,,Knock Back,,Hone Atk,Red,Sword,Infantry,36,28,33,27,26,150,S,S
+Roy,,,,Binding Blade,16,Grants Def/Res+2 when this unit is attacked,Shove,,,Triangle Adept,,Seal Def,,,Red,Sword,Infantry,44,30,31,25,28,158,A,A
+Ryoma,,,,Raijinto,16,Enables unit to counterattack regardless of distance to attacker,,Astra,,Defiant Atk,,,,Hone Spd,Red,Sword,Infantry,41,34,35,27,21,158,S,S+
+Selena,,,,Armorslayer+,12,Effective vs Armored (Atk+50%),Reposition,,,Triangle Adept,,,,Threaten Spd,Red,Sword,Infantry,37,25,35,32,28,157,B,B
+Seliph,,,,Tyrfing,16,Grants Def+4 in battle if unit's HP<=50%,Rally Speed,,,HP,,Brash Assault,,,Red,Sword,Infantry,47,34,24,30,22,157,A,B
+Caeda,,,,Armorslayer+,12,Effective vs Armored (Atk+50%),Rally Speed,,,Darting Blow,,,,Fortify Fliers,Red,Sword,Flying,36,25,37,24,34,156,B,B
+Palla,,,,Ruby Sword+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",,Moonbow,,,,Wings of Mercy,,Goad Fliers,Red,Sword,Flying,42,31,31,28,26,158,B,B
+Cain,,,,Brave Sword+,8,Spd-5. Double-Attack when initiating attack,,Escutcheon,,,,Wings of Mercy,,Threaten Atk,Red,Sword,Cavalry,42,32,32,27,21,154,B,A
+Eldigan,,,,Mystletainn,16,Accelerates Special trigger (cooldown count-1),,Growing Light,,Fury,,Lunge,,,Red,Sword,Cavalry,45,32,24,34,19,154,A+,S
+Eliwood,,,,Durandal,16,Grants Atk+4 during combat if unit initiates attack,,Sacred Cowl,,,,Axebreaker,,Ward Cavalry,Red,Sword,Cavalry,39,31,30,23,32,155,A,A
+Stahl,,,,Ruby Sword+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",Swap,,,Defense,,Obstruct,,,Red,Sword,Cavalry,45,31,26,30,22,154,B,B
+Xander,,,,Siegfried,16,Enables counteratack regardless of distance if this unit attacked,,Blazing Light,,Armored Blow,,,,Spur Def,Red,Sword,Cavalry,44,32,24,37,17,154,U,U
+Draug,,,,Brave Sword+,8,Spd-5. Double-Attack when initiating attack,,Pavis,,,,Lunge,,Ward Armor,Red,Sword,Armored,50,30,32,39,18,169,C,A+
+Zephiel,,,,Eckesachs,16,Inflict Def-4 on foes within 2 spaces through next actions each turn,,Reprisal,,Life and Death,,Wary Fighter,,,Red,Sword,Armored,55,32,16,41,24,168,S,A+
+Henry,,,,Raudrraven+,11,Grants Weapon Advantage vs. Colorless (Atk+20%),,Ignis,,Defiant Def,,G Tomebreaker,,,Red,Tome,Infantry,45,23,22,32,25,147,B,C
+Lilina,,,,Bolganone+,13,-,,Growing Flame,,Attack,,,,Spur Atk,Red,Tome,Infantry,35,37,25,19,31,147,A+,A+
+Raigh,,,,Raudrwolf+,10,Effective vs Cavalry (Atk+50%),Rally Attack,,,HP,,Seal Res,,,Red,Tome,Infantry,36,32,29,22,29,148,B,B
+Sanaki,,,,Cymbeline,14,Grants adjacent allies Atk+4 through next action after unit initates attack,Harsh Command,,,Triangle Adept,,,,Hone Atk,Red,Tome,Infantry,33,37,26,17,34,147,A+,A+
+Sophia,,,,Fenrir+,13,-,,Dragon Fang,,Warding Blow,,,,Fortify Res,Red,Tome,Infantry,40,33,19,28,29,149,C,C
+Tharja,,,,Raudrblade+,13,Adds total bonuses on unit to damage dealt. Slows cooldown count +1,,Vengeance,,Darting Blow,,,,Spur Res,Red,Tome,Infantry,39,32,34,23,20,148,S,S
+Leo,,,,Brynhildr,14,"If user intiates attack, foe cannot move more than 1 space next turn",,Blazing Light,,,,Quick Riposte,,Savage Blow,Red,Tome,Cavalry,39,29,22,25,30,145,A,B
+Anna,,,,Noatun,16,Unit may move adjacent to any ally when HP <= 40%,,Astra,,,,Vantage,,Spur Res,Green,Axe,Infantry,41,29,38,22,28,158,A,A
+Arthur,,,,Emerald Axe+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",Swap,,,HP,,Lancebreaker,,,Green,Axe,Infantry,43,32,29,30,24,158,C,B
+Barst,,,,Brave Axe+,8,Spd -5. Double-Attack when initiating attack,Reposition,,,,,Knock Back,,Spur Atk,Green,Axe,Infantry,46,33,32,30,17,158,B,A
+Bartre,,,,Hammer+,12,Effective vs Armored (Atk+50%),Smite,,,Fury,,Brash Assault,,,Green,Axe,Infantry,49,36,25,33,13,156,B,B
+Chrom(SF),,,,Carrot Axe+,13,"When initiates attack, restores 4HP after combat",Shove,,,Attack Def,,,,Axe Experience,Green,Axe,Infantry,43,35,32,28,20,158,A+,A+
+Hawkeye,,,,Killer Axe+,11,Accelerates Special trigger (cooldown count-1),,Growing Light,,Death Blow,,,,Threaten Atk,Green,Axe,Infantry,45,33,22,28,30,158,B,B
+Raven,,,,Brave Axe+,8,Spd -5. Double-Attack when initiating attack,,Sol,,Defiant Spd,,,,Threaten Def,Green,Axe,Infantry,41,34,35,25,22,157,A,A+
+Beruka,,,,Killer Axe+,11,Accelerates Special trigger (cooldown count-1),,Glimmer,,Defiant Def,,Lunge,,,Green,Axe,Flying,46,29,23,37,22,157,C,C
+Camilla,,,,Brave Axe+,8,Spd -5. Double-Attack when initiating attack,,Draconic Aura,,Darting Blow,,,,Savage Blow,Green,Axe,Flying,37,30,32,28,31,158,A+,A
+Cherche,,,,Hammer+,12,Effective vs Armored (Atk+50%),Pivot,,,Attack,,,,Fortify Def,Green,Axe,Flying,46,38,25,32,16,157,B,A+
+Michalis,,,,Hauteclere,16,Accelerates Special trigger (cooldown count-1),,Blazing Thunder,,Iote's Shield,,,,Threaten Def,Green,Axe,Flying,43,34,26,35,19,157,A,A
+Minerva,,,,Hauteclere,16,Accelerates Special trigger (cooldown count-1),,Sacred Cowl,,Life and Death,,,,Ward Fliers,Green,Axe,Flying,40,31,33,32,22,158,A+,S
+Narcian,,,,Emerald Axe+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",,Vengeance,,,,Lancebreaker,,Savage Blow,Green,Axe,Flying,42,29,29,32,26,158,A,B
+Frederick,,,,Hammer+,12,Effective vs Armored (Atk+50%),,Luna,,,,Wings of Mercy,,Fortify Def,Green,Axe,Cavalry,43,35,25,36,14,153,B,A
+Gunter,,,,Silver Axe+,15,-,Harsh Command,,,Armored Blow,,,,Hone Cavalry,Green,Axe,Cavalry,43,32,24,33,18,150,A,B
+Titania,,,,Emerald Axe+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",Reciprocal Aid,,,Armored Blow,,Guard,,,Green,Axe,Cavalry,37,28,34,25,30,154,A,A
+Hector,,,,Armads,16,Unit makes a guaranteed follow-up attack when attacked at HP > 80%,,Pavise,,Distant Counter,,,,Goad Armor,Green,Axe,Armored,52,36,24,37,19,168,S+,S+
+Sheena,,,,Killer Axe+,11,Accelerates Special trigger (cooldown count-1),,Escutcheon,,Svalinn Shield,,,,Fortify Armor,Green,Axe,Armored,45,30,25,36,33,169,B,B
+Fae,,,,Light Breath+,13,Grants adj allies Def/Res+4 through next actions initiates combat,Draw Back,,,,,Renewal,,Threaten Atk,Green,Dragon,Infantry,46,33,28,25,30,162,A,A+
+Julia,,,,Naga,14,Effective vs Dragons (Atk+50%). Grants Def/Res+2 when attacked,,Dragon Fang,,Resistance,,,,Breath of Life,Green,Tome,Infantry,38,35,26,17,32,148,S,S
+Merric,,,,Excalibur,14,Effective vs Flying (Atk+50%),,Growing Wind,,HP,,,,Spur Res,Green,Tome,Infantry,43,26,32,28,19,148,A,B
+Nino,,,,Gronnblade+,13,Adds total bonuses on unit to damage dealt. Slows cooldown count +1,Draw Back,,,Resistance,,,,Hone Atk,Green,Tome,Infantry,33,33,36,19,26,147,S,S
+Robin(F),,,,Gronnwolf+,10,Effective against Cavalry (Atk+50%),,Ignis,,Defiant Res,,B Tomebreaker,,,Green,Tome,Infantry,40,29,29,29,22,149,B,B
+Soren,,,,Rexcalibur+,13,-,,Growing Wind,,,,Watersweep,,Fortify Res,Green,Tome,Infantry,36,33,33,17,29,148,A+,A+
+Veronica,,,,Elivager,13,"If initiates, foes bonuses within 2 spaces are penalties thru next actions",,Reprisal,,,,Renewal,,Savage Blow,Green,Tome,Infantry,?,?,?,?,?,0,U,U
+Camilla(SF),,,,Green Egg+,11,"When initiates attack, restores 4HP after combat",Rally Attack,,,Defiant Spd,,Live For Bounty,,,Green,Tome,Flying,39,35,25,30,19,148,A,A
+Cecilia,,,,Gronnraven+,11,Grants Weapon Advantage vs. Colorless (Atk+20%),Rally Resistance,,,Attack,,Escape Route,,,Green,Tome,Cavalry,36,32,25,22,29,144,A,A
+Corrin(F),,,,Dark Breath+,13,"After initiates, foes within 2 spaces of target Atk/Spd-5 through next act",,Draconic Aura,,,,Seal Res,,Hone Atk,Blue,Dragon,Infantry,41,27,34,34,21,157,A+,A+
+Ninian,,,,Light Breath+,13,Grants adj allies Def/Res+4 through next actions initiates combat,Dance,,,,,Escape Route,,Fortify Dragons,Blue,Dragon,Infantry,42,24,33,23,27,149,S,S
+Nowi,,,,Lightning Breath+,11,Enables counterattack regardless of range (Slows Special trigger +1),Rally Defense,,,Defense,,,,Threaten Res,Blue,Dragon,Infantry,45,34,27,30,27,163,S,S+
+Azura,,,,Sapphire Lance+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",Sing,,,Speed,,,,Fortify Res,Blue,Lance,Infantry,36,31,33,21,28,149,S+,S
+Donnel,,,,Brave Lance+,8,Spd -5. Double-Attack when initiating attack,Reciprocal Aid,,,HP,,Drag Back,,,Blue,Lance,Infantry,43,35,29,32,23,162,B,A+
+Ephraim,,,,Siegmund,16,Grants adjacent allies Atk+3 through next actions at start of each turn,,Moonbow,,,,Seal Def,,Threaten Def,Blue,Lance,Infantry,45,35,25,32,20,157,A+,S
+Lukas,,,,Killer Lance+,11,Accelerates Special trigger (cooldown count-1),,Sacred Cowl,,Fortress Def,,Obstruct,,,Blue,Lance,Infantry,45,35,22,38,17,157,B,A
+Oboro,,,,Heavy Spear+,12,Effective vs Armored (Atk+50%),Rally Defense,,,,,Seal Def,,Threaten Res,Blue,Lance,Infantry,40,32,26,35,24,157,C,A
+Sharena,,,,Fensalir,16,Inflict Atk-4 on foes within 2 spaces through next actions each turn,Rally Attack,,,Speed,,,,Fortify Def,Blue,Lance,Infantry,43,32,32,29,22,158,S,S
+Catria,,,,Killer Lance+,11,Accelerates Special trigger (cooldown count-1),,Luna,,Armored Blow,,Seal Atk,,,Blue,Lance,Flying,39,31,34,29,25,158,A+,A+
+Clair,,,,Silver Lance+,15,-,Harsh Command,,,,,Hit and Run,,Spur Spd,Blue,Lance,Flying,37,26,36,24,33,156,B,B
+Cordelia,,,,Brave Lance+,8,Spd -5. Double-Attack when initiating attack,,Galeforce,,Triangle Adept,,Pass,,,Blue,Lance,Flying,40,35,35,22,25,157,A+,A+
+Est,,,,Heavy Spear+,12,Effective vs Armored (Atk+50%),Shove,,,Defiant Res,,Seal Spd,,,Blue,Lance,Flying,36,35,30,24,32,157,C,A
+Florina,,,,Heavy Spear+,12,Effective vs Armored (Atk+50%),Ardent Sacrifice,,,Darting Blow,,,,Breath of Life,Blue,Lance,Flying,42,29,27,25,34,157,C,B
+Hinoka,,,,Brave Lance+,8,Spd -5. Double-Attack when initiating attack,,Blazing Wind,,Defiant Def,,,,Hone Fliers,Blue,Lance,Flying,41,35,32,25,24,157,A,A+
+Shanna,,,,Killer Lance+,11,Accelerates Special trigger (cooldown count-1),,Iceberg,,,,Desperation,,Threaten Spd,Blue,Lance,Flying,39,30,35,25,29,158,B,A
+Subaki,,,,Sapphire Lance+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",Swap,,,Resistance,,Quick Riposte,,,Blue,Lance,Flying,40,25,35,35,22,157,B,A
+Abel,,,,Brave Lance+,8,Spd -5. Double-Attack when initiating attack,,Aegis,,HP,,Swordbreaker,,,Blue,Lance,Cavalry,39,33,32,25,25,154,A+,A
+Camus,,,,Gradivus,16,"Enables unit to counterattack, regardless of distance",,Growing Thunder,,Grani's Shield,,,,Goad Cavalry,Blue,Lance,Cavalry,?,?,?,?,?,0,U,U
+Jagen,,,,Silver Lance+,15,-,,Aegis,,Fury,,,,Fortify Cavalry,Blue,Lance,Cavalry,37,27,24,25,35,148,B,C
+Peri,,,,Killer Lance+,11,Accelerates Special trigger (cooldown count-1),,Glimmer,,Resistance,,,,Threaten Def,Blue,Lance,Cavalry,35,33,33,23,30,154,B,A
+Sully,,,,Sapphire Lance+,12,"Gives Atk+20% if weapon-triangle advantage, Atk-20% if disadvantage",Draw Back,,,,,Swordbreaker,,Spur Def,Blue,Lance,Cavalry,42,26,34,24,28,154,A,B
+Xander(SF),,,,Carrot Lance+,13,"When initiates attack, restores 4HP after combat",Swap,,,,,Live for Honor,,Fortify Def,Blue,Lance,Cavalry,40,25,28,35,26,154,B,C
+Effie,,,,Silver Lance+,15,-,Smite,,,Death Blow,,Wary Fighter,,,Blue,Lance,Armored,50,40,22,33,23,168,S,S+
+Gwendolyn,,,,Killer Lance+,11,Accelerates Special trigger (cooldown count-1),,Escutcheon,,,,Drag Back,,Hone Armor,Blue,Lance,Armored,49,30,24,38,28,169,B,B
+Linde,,,,Aura,14,Restores 5 HP to adjacent allies after any combat this unit initiates,Ardent Sacrifice,,,Speed,,,,Fortify Res,Blue,Tome,Infantry,35,35,36,14,27,147,S+,S
+Lucina(SF),,,,Blue Egg+,11,"When initiates attack, restores 4HP after combat",Rally Speed,,,Swift Sparrow,,Seal Res,,,Blue,Tome,Infantry,35,29,36,22,25,147,S,A+
+Odin,,,,Blarblade+,13,Adds total bonuses on unit to damage dealt. Slows cooldown count +1,,Moonbow,,Defiant Atk,,R Tomebreaker,,,Blue,Tome,Infantry,43,22,32,25,25,147,A,C
+Robin(M),,,,Blarraven+,11,Grants Weapon Advantage vs Colorless (Atk+20%),,Bonfire,,Defiant Spd,,,,Spur Def,Blue,Tome,Infantry,40,29,29,29,22,149,S,A
+Bruno(???),,,,Valaskjalf,14,"Enables unit at <=50% HP to strike first, even when attacked",,Growing Thunder,,Warding Blow,,,,,Blue,Tome,Cavalry,?,?,?,?,?,0,U,U
+Olwen,,,,Dire Thunder,9,Spd -5. Double-Attack when initiating attack,Reposition,,,Warding Blow,,,,Ward Cavalry,Blue,Tome,Cavalry,34,26,34,20,30,144,A,A+
+Reinhardt,,,,Dire Thunder,9,Spd -5. Double-Attack when initiating attack,,Blazing Thunder,,,,Vantage,,Goad Cavalry,Blue,Tome,Cavalry,38,32,23,27,25,145,A+,A+
+Ursula,,,,Blarwolf+,10,Effective vs Cavalry (Atk+50%),,Growing Thunder,,Death Blow,,,,Threaten Res,Blue,Tome,Cavalry,35,29,32,19,30,145,A,A
+Faye,,,,Firesweep Bow+,11,Effective vs Flying. Unit and enemies cannot counterattack,,Noontime,,,,Wings of Mercy,,Bow Experience,AColor,Bow,Infantry,42,30,25,26,31,154,A,A
+Gordin,,,,Brave Bow+,7,Effective vs Flying. Spd-5. Double-Attack when initiating attack,Shove,,,Attack,,Vantage,,,AColor,Bow,Infantry,43,31,25,32,17,148,A,B
+Jeorge,,,,Parthia,14,Effective vs Flying. Innate Warding Blow 2 skill,,Blazing Flame,,,,Seal Atk,,Spur Spd,AColor,Bow,Infantry,37,32,32,24,22,147,A,A+
+Klein,,,,Brave Bow+,7,Effective vs Flying. Spd-5. Double-Attack when initiating attack,,Glacies,,Death Blow,,Quick Riposte,,,AColor,Bow,Infantry,40,31,33,20,24,148,A+,A
+Niles,,,,Killer Bow+,9,Effective vs Flying. Accelerates Special trigger (cooldown count-1),,Iceberg,,Warding Blow,,,,Spur Res,AColor,Bow,Infantry,37,25,34,17,34,147,C,B
+Rebecca,,,,Silver Bow+,13,Effective vs Flying (Atk+50%),Ardent Sacrifice,,,Darting Blow,,Seal Atk,,,AColor,Bow,Infantry,37,29,34,21,27,148,B,A
+Setsuna,,,,Assassin's Bow+,11,"Effective vs Flying (Atk+50%), Innate DaggerBreaker skill at any health",Reciprocal Aid,,,HP,,Bowbreaker,,,AColor,Bow,Infantry,37,28,37,22,23,147,B,S
+Takumi,,,,Fujin Yumi,14,Effective vs Flying. Innate Pass 3 Skill,,Vengeance,,Close Counter,,,,Threaten Spd,AColor,Bow,Infantry,40,32,33,25,18,148,S+,A+
+Virion,,,,Silver Bow+,13,Effective vs Flying (Atk+50%),,Astra,,Defiant Res,,Seal Spd,,,AColor,Bow,Infantry,46,31,31,26,13,147,C,B
+Felicia,,,,Silver Dagger+,10,"After combat, inflicts Def/Res-7 on foe through its next action",,Glacies,,Resistance,,,,Breath of Life,AColor,Dagger,Infantry,34,23,37,18,35,147,B,B
+Gaius,,,,Rogue Dagger+,7,Inflicts Def/Res-5 on foe through its next action. Grants unit Def/Res+5,Rally Speed,,,Defiant Atk,,Pass,,,AColor,Dagger,Infantry,42,29,36,22,19,148,C,A
+Jaffar,,,,Deathly Dagger,11,Def/Res-7 on foe through next action. Innate Poison Strike 2 skill,,Glimmer,,Life and Death,,,,Threaten Spd,AColor,Dagger,Infantry,41,26,33,25,22,147,A,A
+Jakob,,,,Silver Dagger+,10,"After combat, inflicts Def/Res-7 on foe through its next action",Rally Resistance,,,Defense,,Renewal,,,AColor,Dagger,Infantry,39,29,31,25,24,148,B,B
+Kagero,,,,Poison Dagger+,5,Effective vs Infantry (Atk+50%). Infantry Def/Res-6 after combat,,Reprisal,,Warding Blow,,Daggerbreaker,,,AColor,Dagger,Infantry,31,35,32,22,28,148,S,S
+Matthew,,,,Rogue Dagger+,7,Inflicts Def/Res-5 on foe through its next action. Grants unit Def/Res+5,Reciprocal Aid,,,,,Poison Strike,,Hone Spd,AColor,Dagger,Infantry,41,25,34,30,18,148,C,B
+Saizo,,,,Smoke Dagger+,9,Def/Res-6 on foes within 2 spaces of target through their next actions,Harsh Command,,,,,Poison Strike,,Spur Spd,AColor,Dagger,Infantry,36,29,34,33,16,148,A,A
+Azama,,,,Pain,3,Inflicts 10 damage on foe after combat,Martyr,Solid-Earth Balm,,,,,,Threaten Atk,AColor,Staff,Infantry,43,21,26,32,25,147,B,C
+Lachesis,,,,Absorb,4,Recovers HP = 50% of damage dealt,Psychic,Solid-Earth Balm,,,,,,Spur Res,AColor,Staff,Infantry,39,32,25,22,30,148,B,C
+Lissa,,,,Gravity,6,"After any combat, prevents foe moving more than 1 space next action",Rehabilitate,Kindled-Fire Balm,,,,Renewal,,,AColor,Staff,Infantry,39,26,25,28,30,148,A,C
+Lucius,,,,Pain,3,Inflicts 10 damage on foe after combat,Martyr,Miracle,,HP,,,,,AColor,Staff,Infantry,37,32,30,13,35,147,B,C
+Maria,,,,Panic,7,"After any combat, bonuses on foe become penalties thru next action",Psychic,Miracle,,,,,,Fortify Res,AColor,Staff,Infantry,36,27,34,19,32,148,B,C
+Mist,,,,Slow,5,"After any combat, inflicts Spd-6 on foe through its next action.",Recover,Miracle,,,,,,Spur Def/Res,AColor,Staff,Infantry,39,27,28,20,34,148,B,C
+Sakura,,,,Fear,5,"After any combat, inflicts Atk-6 on foe through its next action.",Psychic,Still-Water Balm,,,,,,Fortify Def,AColor,Staff,Infantry,36,28,30,24,30,148,B,C
+Serra,,,,Absorb,4,Recovers HP = 50% of damage dealt,Recover,Swift-Winds Balm,,,,,,Hone Atk,AColor,Staff,Infantry,33,30,31,21,33,148,B,C
+Wrys,,,,Slow,5,"After any combat, inflicts Spd-6 on foe through its next action.",Rehabilitate,Heavenly Light,,,,Live to Serve,,,AColor,Staff,Infantry,42,24,23,22,36,147,G,G+
+Clarine,,,,Fear,5,"After any combat, inflicts Atk-6 on foe through its next action.",Martyr,Swift-Winds Balm,,Resistance,,,,,AColor,Staff,Cavalry,35,25,33,22,29,144,B,B
+Elise,,,,Gravity,6,"After any combat, prevents foe moving more than 1 space next action",Recover,Kindled-Fire Balm,,,,Live to Serve,,,AColor,Staff,Cavalry,30,32,32,19,32,145,A,B
+Priscilla,,,,Panic,7,"After any combat, bonuses on foe become penalties thru next action",Rehabilitate,Still-Water Balm,,,,,,Spur Def,AColor,Staff,Cavalry,33,29,29,19,35,145,B,B
