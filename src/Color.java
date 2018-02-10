@@ -6,19 +6,19 @@ public enum Color {
         switch(c){
             case "red":
                 return Red;
-                break;
+
             case "blue":
                 return Blue;
-                break;
+
             case "green":
                 return Green;
-                break;
+
             case "colorless":
                 return Colorless;
-                break;
+
             default:
                 throw new InvalidColorException();
-                break;
+
         }
     }
 }

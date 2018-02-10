@@ -3,6 +3,7 @@ public class Character {
     private Color color;
     private int[] stats;
 
+
     public Character(String n, String c, int[] s){
         this.name = n;
         this.color = null;

@@ -1,3 +1,4 @@
+import java.net.MalformedURLException;
 import java.net.URL;
 
 public class FireEmblem {
@@ -10,7 +11,12 @@ public class FireEmblem {
 
         System.out.println("Reading from URL test");
         String testUrl = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet";
-        URL markdown = new URL(testUrl);
+        try {
+            URL markdown = new URL(testUrl);
+        }
+        catch (MalformedURLException e){
+            System.err.println("Bad URL!");
+        }
 
     }
 
@@ -31,9 +37,9 @@ public class FireEmblem {
      * alphabet, store this number in database */
     private static void mine(){
         String root = "https://fireemblem.gamepress.gg/hero/";
-        while(){
-
-        }
+//        while(){
+//
+//        }
 
     }
 

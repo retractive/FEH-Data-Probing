@@ -8,4 +8,6 @@ Goal of this project is to convert the character data into a SQLITE database, an
 TODO:
 * ~Download data~
 * Remove images from data, remove unnecessary columns (sanitize)
-
+* NEW (12/4/17) mine stats from fireemblem.gamepress.gg/hero/*
+* stretch goal: enter data in SQL database
+* NEW (12/4/17) train and predict new characters' colors and weapon type
